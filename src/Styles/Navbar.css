@@ -21,8 +21,9 @@
 }
 
 .navbar-logo {
+    margin-top: 5px;
     max-width: 200px;
-    height: 80px;
+    height: 70px;
     display: block;
 }
 
