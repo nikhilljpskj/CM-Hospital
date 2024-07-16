@@ -87,6 +87,7 @@
     }
     .info-cards-content {
         grid-template-columns: repeat(2, 1fr);
+        text-align: left;
     }
 }
 
@@ -96,5 +97,6 @@
     }
     .info-cards-content {
         grid-template-columns: repeat(1, 1fr);
+        text-align: left;
     }
 }
