@@ -38,9 +38,9 @@
     position: relative;
 }
 .rw-text-quote1 {
-    position: absolute;
+    /* position: absolute;
     top: -18px;
-    left: -24px;
+    left: -24px; */
     color: #178BFF;
     font-family: 'Poppins', sans-serif;
     font-size: 40px;
@@ -48,14 +48,14 @@
     letter-spacing: 2px;
 }
 .rw-text-quote2 {
-    position: absolute;
+    /* position: absolute;
     right: -18px;
-    bottom: -24px;
+    bottom: -24px; */
     color: #178BFF;
     font-family: 'Poppins', sans-serif;
     font-size: 40px;
-    font-weight: bold;
-    letter-spacing: 2px;
+    /* font-weight: bold;
+    letter-spacing: 2px; */
 }
 .rw-review {
     display: block;

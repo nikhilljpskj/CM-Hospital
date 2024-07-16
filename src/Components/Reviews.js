@@ -40,9 +40,9 @@ function Reviews() {
         <p className="rw-text-desc">Don't believe us, Check clients word</p>
 
         <p className="rw-text-format">
-          <span className="rw-text-quote1">''</span>
-          <span className="rw-review">{rMessage}</span>
-          <span className="rw-text-quote2">''</span>
+          {/*   */}
+          <span className="rw-review"><span className="rw-text-quote1">''</span>{rMessage} <span className="rw-text-quote2">''</span> </span>
+         {/*   */}
         </p>
 
         <div className="rw-authors">

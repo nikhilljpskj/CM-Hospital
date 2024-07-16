@@ -45,6 +45,7 @@
     font-size: 18px;
     letter-spacing: .7px;
     line-height: 1.7rem;
+    text-align: justify; /* Add this line to justify the text */
 }
 .about-text-title {
     margin: 0 0 24px 0;
@@ -70,6 +71,7 @@
     font-family: 'Rubik', sans-serif;
     letter-spacing: .7px;
     line-height: 1.6rem;
+    text-align: justify;
 }
 .fa-icon {
     color: #9D2553;
